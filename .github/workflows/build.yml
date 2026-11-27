@@ -18,7 +18,7 @@ jobs:
         uses: egor-tensin/setup-mingw@v2
 
       - name: Compile C++
-        run: g++ main.cpp -o program.exe -static -O2
+        run: g++ main.cpp -o triox2.exe -static -O2
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
