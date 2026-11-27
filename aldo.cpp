@@ -161,9 +161,11 @@ void pilihKategori() {
         }
         else {
             cout<<"Pilihan Tidak ada";
+            return;
         }
 
-        cout<<"Pilih Kategori Menu Lagi (y/n)";
+        cout<<"Pilih Kategori Menu Lagi (y/n)"<<endl;
+        cout<<"Jika merasa cukup pencet tombol selain y/n: ";
         cin>>tambah;
     }while (tambah == 'y' || tambah == 'Y');
 }
