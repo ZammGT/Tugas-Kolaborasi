@@ -38,7 +38,6 @@ void programKedua() {
     bersihkanLayar();
     cout << "=== MENJALANKAN PROGRAM KEDUA ===" <<"\n\n";
     cout << "Halo! Ini adalah eksekusi dari Program 2.\n";
-    // ... masukkan logika program keduamu di sini ...
 }
 
 int main() {
