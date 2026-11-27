@@ -172,6 +172,7 @@ void pilihKategori() {
     char tambah;
 
     do {
+        bersihkanLayar();
         cout << "\n1. Makanan Berat";
         cout << "\n2. Makanan Ringan";
         cout << "\n3. Minuman";
