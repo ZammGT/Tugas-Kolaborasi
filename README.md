@@ -4,7 +4,7 @@ Kelompok 3
 Anggota :
 - Azam Ardiansyah Putra Fachrudin. / 08
 - Azriel Maulana Ramadhan. / 10
-- Faeyza Zuljalali Riski. / 15
+- Faeyza Zuljalali Rizki. / 15
 - Fitrah Ramadhania. / 17
 - Maulidya Valencia. / 23
 - Prastyo Antonio Refaldo. / 32
