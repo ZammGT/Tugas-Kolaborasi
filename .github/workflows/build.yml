@@ -18,10 +18,10 @@ jobs:
         uses: egor-tensin/setup-mingw@v2
 
       - name: Compile C++
-        run: g++ main.cpp -o triox2.exe -static -O2
+        run: g++ main.cpp -o colab.exe -static -O2
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
         with:
-          name: colab-Windows
-          path: triox2.exe
+        name: colab-windows
+        path: colab.exe
